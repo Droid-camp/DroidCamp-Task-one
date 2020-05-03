@@ -1,2 +1,2 @@
 # DroidCamp-Task-one
-This is the fitrst task for Droidcamp
+This is the first task for Droidcamp
